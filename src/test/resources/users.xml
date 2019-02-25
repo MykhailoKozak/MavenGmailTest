@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<email>autohelp.lviv@gmail.com</email>
+		<password>13101998gmail</password>
+	</user>
+	<user>
+		<email>ta.lab.testprofile@gmail.com</email>
+		<password>ownerofthisPROFILE</password>
+	</user>
+	<user>
+		<email>vfemyaktest@gmail.com</email>
+		<password>test1234test</password>
+	</user>
+	<user>
+		<email>testng.userdrive@gmail.com</email>
+		<password>1111test</password>
+	</user>
+	<user>
+		<email>selenium.test337@gmail.com</email>
+		<password>Qwerty333</password>
+	</user>
+</users>
